@@ -1,4 +1,4 @@
-#ShoPperZ E-Commerce Website
+E-Commerce-Website
 
 Welcome to ShoPperZ, an e-commerce platform offering a diverse range of products, from fashion to electronics and home essentials. This project showcases a responsive website built using HTML and CSS.
 
